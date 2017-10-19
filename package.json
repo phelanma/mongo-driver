@@ -1,6 +1,6 @@
 {
   "name": "@phelanma/mongo-driver",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Localised mongodb driver",
   "author": "Michael Phelan <phelan.map@gmail.com>",
   "main": "lib/index.js",
