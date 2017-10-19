@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Localised mongodb driver",
   "author": "Michael Phelan <phelan.map@gmail.com>",
+  "main": "lib/index.js",
   "scripts": {
     "lint": "eslint --ext .js /src"
   },
